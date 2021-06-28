@@ -41,8 +41,8 @@ function comid (op)
     }
 }
 
-var tempo = 11;
-let menu = 1;
+var tempo = 11; // Variável para teste
+let menu = 1; // Variável para teste
 switch (menu)
 {
       case 1:
